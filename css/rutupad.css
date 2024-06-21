@@ -192,8 +192,6 @@ nav {
   padding: 0 4rem 0 4rem;
 }
 .rutupad {
-  font-family: rubik;
-
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width: 90rem;
