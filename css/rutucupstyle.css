@@ -391,7 +391,7 @@ footer h1 {
   scale: 1.2;
 }
 
-/* Laptops and desktops */
+/* queries  */
 @media (max-width: 1281px) {
   html {
     font-size: 50%;
